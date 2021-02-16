@@ -1,0 +1,9 @@
+{
+  "name": "forge-viewer-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "Damian Bartosik <hello@damianbartosik.com>",
+  "homepage": "https://github.com/damian66/forge-viewer-react",
+  "license": "MIT"
+}
